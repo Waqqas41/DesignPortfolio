@@ -2,7 +2,8 @@
 
 ## Websites
 
-fairviewedconsulting.com /n
+fairviewedconsulting.com
+
 secondchancedecor.ca
 
 ## UIs
