@@ -1,9 +1,6 @@
 # DesignPortfolio
 
 ## Websites
-
-fairviewedconsulting.com
-
 secondchancedecor.ca
 
 ## UIs
