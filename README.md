@@ -1,10 +1,11 @@
 # DesignPortfolio
 
 ## Websites
-secondchancedecor.ca
+[secondchancedecor.ca
+](https://www.secondchancedecor.ca/)
 
-dailydive.tech
-
+[dailydive.tech
+](https://dailydive.tech/)
 ## UIs
 
 **Tri-wash**: https://www.figma.com/file/JR1LItvEJBhRgrXyaz8BOM/tri-wash?type=design&node-id=0-1&mode=design&t=0ED6RygIf5pxsKTB-0
