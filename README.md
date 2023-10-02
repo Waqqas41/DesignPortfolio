@@ -4,6 +4,9 @@
 [secondchancedecor.ca
 ](https://www.secondchancedecor.ca/)
 
+[fairviewedconsulting.com
+](https://fairviewedconsulting.com)
+
 [dailydive.tech
 ](https://dailydive.tech/)
 ## UIs
