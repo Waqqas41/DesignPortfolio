@@ -19,4 +19,8 @@
 
 **Daily Dive**: https://www.figma.com/file/6x82TOzutW7LD6TDPdVQ3N/Dailydive-newsletter?type=design&node-id=0%3A1&mode=design&t=FaBA8B2ve98ugGDW-1
 
+## Graphics
+![dawa series 2-v3](https://github.com/Waqqas41/DesignPortfolio/assets/76067933/58356100-e530-40ef-afe9-7e50b7d6bd0e)
+
+
 
