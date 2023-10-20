@@ -2,13 +2,13 @@
 
 ## Websites
 [secondchancedecor.ca
-](https://www.secondchancedecor.ca/) - Shopify
+](https://www.secondchancedecor.ca/) - e-commerce Shopify store
 
 [fairviewedconsulting.com
-](https://fairviewedconsulting.com) - WordPress
+](https://fairviewedconsulting.com) - consulting WordPress site
 
 [dailydive.tech
-](https://dailydive.tech/) - custom UI and code
+](https://dailydive.tech/) - custom UI and code for an app
 ## UIs
 
 **Tri-wash**: https://www.figma.com/file/JR1LItvEJBhRgrXyaz8BOM/tri-wash?type=design&node-id=0-1&mode=design&t=0ED6RygIf5pxsKTB-0
