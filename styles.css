@@ -1,0 +1,79 @@
+/* Reset default styles and apply some base styling */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* Header styles */
+header {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+/* Section styles */
+section {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+li {
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
+
+a {
+  color: #0074b6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Links inside the UIs section */
+#uis a {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Add some spacing for the video preview links */
+#uis a[target="_blank"] {
+  margin-left: 20px;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  li {
+    font-size: 1rem;
+  }
+}
