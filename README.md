@@ -1,14 +1,18 @@
 # DesignPortfolio
 
 ## Websites
+
+[https://vitapuresupplements.com/
+](https://vitapuresupplements.com/) - e-commerce supplement store
+
 [secondchancedecor.ca
-](https://www.secondchancedecor.ca/) - e-commerce Shopify store
+](https://www.secondchancedecor.ca/) - e-commerce furniture store
 
 [fairviewedconsulting.com
-](https://fairviewedconsulting.com) - consulting WordPress site
+](https://fairviewedconsulting.com) - immigration consulting site
 
 [dailydive.tech
-](https://dailydive.tech/) - custom UI and code for an app
+](https://dailydive.tech/) - custom UI and code for a newsletter app
 ## UIs
 
 **Tri-wash**: https://www.figma.com/file/JR1LItvEJBhRgrXyaz8BOM/tri-wash?type=design&node-id=0-1&mode=design&t=0ED6RygIf5pxsKTB-0
